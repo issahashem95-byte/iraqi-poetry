@@ -1,0 +1,19 @@
+{
+  "short_name": "شعر عراقي",
+  "name": "شعر عراقي - عبارات وقصائد",
+  "description": "عبارات وقصائد باللهجة العراقية",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#120800",
+  "background_color": "#05030a",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl"
+}
